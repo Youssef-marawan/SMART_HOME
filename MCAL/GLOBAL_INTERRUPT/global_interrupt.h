@@ -1,0 +1,12 @@
+/*
+ * Author	 : YOUSSEF MARAWAN
+ * FileName   : global_interrupt.h
+ *
+ */
+
+#ifndef MCAL_GLOBAL_INTERRUPT_GLOBAL_INTERRUPT_H_
+#define MCAL_GLOBAL_INTERRUPT_GLOBAL_INTERRUPT_H_
+
+void GLOBAL_INTERRUPT_Init();
+
+#endif /* MCAL_GLOBAL_INTERRUPT_GLOBAL_INTERRUPT_H_ */
